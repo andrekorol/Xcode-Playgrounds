@@ -28,3 +28,9 @@ print(occupations)
 
 let emptyArray = [String]()
 let emptyDictionary = [String: Float]()
+
+shoppingList = []
+occupations = [:]
+print(shoppingList)
+print(occupations)
+
